@@ -7,5 +7,6 @@ public class gittest {
         System.out.println("hello");
         System.out.println("amagi");
         System.out.println("amgiii");
+        System.out.println("niganma");
     }
 }
